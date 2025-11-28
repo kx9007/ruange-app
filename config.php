@@ -1,4 +1,4 @@
-<?php 
+<?php // config.php - 配置文件
 $config=array(
 'user'=>'user',//账号名 无用
 'admin'=>'admin',//管理员账号名

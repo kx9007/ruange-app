@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- up.php - 应用发布中心文件 -->
 <html lang="zh-CN">
 <head>
     <meta charset="utf-8">

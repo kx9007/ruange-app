@@ -1,5 +1,6 @@
 <html lang="zh-CN">
-
+<!-- index.php - 主页文件 -->
+ <!-- 头像可在112行修改 -->
 <head>
     <meta charset="UTF-8">
     <title>软阁</title>

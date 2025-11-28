@@ -1,4 +1,5 @@
 <?php
+// manage.php - 应用管理接口,用于删除应用
 require '../config.php';
 require 'function.php';
 

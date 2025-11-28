@@ -1,4 +1,6 @@
 <?php
+// download.php - 应用下载界面
+
 require_once 'config.php'; // 引入配置文件
 $isAdmin = false; // 管理员标识
 

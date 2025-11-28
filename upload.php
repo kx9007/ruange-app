@@ -1,7 +1,7 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_FILES['file'])) {
     $file = $_FILES['file'];
-
+//上传接口文件，对接的是彩虹外联网盘
     // 确保文件上传没有错误
     if ($file['error'] === 0) {
         // 初始化cURL会话

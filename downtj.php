@@ -2,7 +2,7 @@
 // 获取id和lx参数
 $id = $_GET['id'];
 $lx = $_GET['lx'];
-
+// downtj.php - 应用下载统计接口
 // 定义IP获取函数
 function getIP() {
     $ip = 'Unknow';
