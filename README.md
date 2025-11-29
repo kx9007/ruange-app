@@ -20,6 +20,7 @@ PHP，HTML，CSS，JavaScript，layui等
 1.  彩虹外链网盘下载地址:https://blog.cccyun.cn/m/?post=406&comment-page=2
 2.  或者可以使用彩虹外链网盘的api，地址是https://cccimg.com/api.php （不定期清理）
 3.  直接使用我的也行(不定期清理大型文件，小文件不管) https://file.kxlove.top/api.php
+4.  审核应用界面和应用列表是一起的，进入方法是加?admin=config.php的pass 例如：https://www.你的域名.com/index.php?admin=123456
 
 #### 相关贡献
 
