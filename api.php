@@ -1,7 +1,6 @@
 <?php
 //用于获取应用信息列表的api接口
 // api.php - 应用列表API接口
-
 // 设置响应头为JSON格式
 header('Content-Type: application/json; charset=utf-8');
 
