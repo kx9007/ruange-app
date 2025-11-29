@@ -1,18 +1,14 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_FILES['file'])) {
     $file = $_FILES['file'];
-<<<<<<< HEAD
 //上传接口文件，对接的是彩虹外联网盘
-=======
-
->>>>>>> d842d29ae4c970dbd5dec7f557c3fef514378871
     // 确保文件上传没有错误
     if ($file['error'] === 0) {
         // 初始化cURL会话
         $curl = curl_init();
 
         // 设置cURL选项
-        curl_setopt($curl, CURLOPT_URL, 'http://file.kxlove.top/api.php');
+        curl_setopt($curl, CURLOPT_URL, 'http://file.kxlove.top/api.php');//修改这里
         curl_setopt($curl, CURLOPT_POST, true);
         curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($curl, CURLOPT_POSTFIELDS, [

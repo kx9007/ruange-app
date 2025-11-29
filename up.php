@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<<<<<<< HEAD
 <!-- up.php - 应用发布中心文件 -->
-=======
->>>>>>> d842d29ae4c970dbd5dec7f557c3fef514378871
 <html lang="zh-CN">
 <head>
     <meta charset="utf-8">

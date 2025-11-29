@@ -1,9 +1,5 @@
 <?php
-<<<<<<< HEAD
 // function.php - 函数库文件
-=======
-
->>>>>>> d842d29ae4c970dbd5dec7f557c3fef514378871
 function copydir($source, $destination) {
     // 检查源目录是否存在
     if (!is_dir($source)) {

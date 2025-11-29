@@ -1,5 +1,4 @@
 <?php
-<<<<<<< HEAD
 // app.php - 应用发布API接口
 
 // 设置响应头为JSON格式
@@ -7,9 +6,6 @@ header('Content-Type: application/json; charset=utf-8');
 
 // 引入配置文件
 require_once 'config.php';
-=======
-// app.php
->>>>>>> d842d29ae4c970dbd5dec7f557c3fef514378871
 require 'php/function.php';
 
 // 获取 POST 数据
