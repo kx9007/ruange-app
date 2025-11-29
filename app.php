@@ -1,6 +1,5 @@
 <?php
 // app.php - 应用发布API接口
-
 // 设置响应头为JSON格式
 header('Content-Type: application/json; charset=utf-8');
 
