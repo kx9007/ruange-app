@@ -1,8 +1,5 @@
 <?php
-<<<<<<< HEAD
 // manage.php - 应用管理接口,用于删除应用
-=======
->>>>>>> d842d29ae4c970dbd5dec7f557c3fef514378871
 require '../config.php';
 require 'function.php';
 

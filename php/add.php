@@ -1,11 +1,7 @@
 <?php
 require '../config.php';
 require 'function.php';
-<<<<<<< HEAD
 // add.php - 应用添加接口,用于添加应用和审核通过应用
-=======
-
->>>>>>> d842d29ae4c970dbd5dec7f557c3fef514378871
 // 验证密码
 if (!isset($_POST['pass']) || $_POST['pass'] !== $config["pass"]) {
     die("密码验证失败");
