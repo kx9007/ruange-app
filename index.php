@@ -110,7 +110,7 @@ setupImageRetry();
             <div class="main-top">
                 <div class="main-top-title">
                     <h1>欢迎光临➡️</h1>
-                    <a onclick="openSearch()"><img src="https://q4.qlogo.cn/g?b=qq&nk=1661993235&s=640" alt="咦，图片消失了"></a>
+                    <a onclick="openSearch()"><img src="https://q4.qlogo.cn/g?b=qq&nk=809551336&s=640" alt="咦，图片消失了"></a>
                 </div>
                 <div class="main-top-Brief">
                     <p><script src="http://kxlove.top"></script></p>
