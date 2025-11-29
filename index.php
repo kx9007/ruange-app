@@ -1,6 +1,10 @@
 <html lang="zh-CN">
+<<<<<<< HEAD
 <!-- index.php - 主页文件 -->
  <!-- 头像可在112行修改 -->
+=======
+
+>>>>>>> d842d29ae4c970dbd5dec7f557c3fef514378871
 <head>
     <meta charset="UTF-8">
     <title>软阁</title>

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?php // config.php - 配置文件
+=======
+<?php 
+>>>>>>> d842d29ae4c970dbd5dec7f557c3fef514378871
 $config=array(
 'user'=>'user',//账号名 无用
 'admin'=>'admin',//管理员账号名
