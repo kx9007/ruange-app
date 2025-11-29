@@ -29,7 +29,7 @@ PHP，HTML，CSS，JavaScript，layui等
 3.  king团队三妹
 4.  软阁应用审核和发布负责人逸笙
 预览图
-![预览图](yl.png)
+![预览图](yl.png)![审核图](sh.png)![审核员查看应用图](shhckyy.png)
 
 *****欢迎你的fork和star，也欢迎打赏!(打赏请备注方便我联系感谢您)
 ![微信](http://life.kxlove.top/wx.png)![支付宝](http://life.kxlove.top/zfb.png)![QQ](http://life.kxlove.top/QQ.png)
