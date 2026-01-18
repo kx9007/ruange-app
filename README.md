@@ -1,6 +1,7 @@
 # 软阁软件库
 
 #### 介绍
+![https://count.getloli.com/@ruange-app?name=ruange-app&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto](https://count.getloli.com/@ruange-app?name=ruange-app&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 就止步于此吧，后续不更新了，更新了粉丝群也是2位数[流泪]，应用列表界面是网上找到的，然后自己在上面加以创作
 
@@ -33,3 +34,4 @@ PHP，HTML，CSS，JavaScript，layui等
 
 *****欢迎你的fork和star，也欢迎打赏!(打赏请备注方便我联系感谢您)
 ![微信](http://life.kxlove.top/wx.png)![支付宝](http://life.kxlove.top/zfb.png)![QQ](http://life.kxlove.top/QQ.png)
+
